@@ -1,2 +1,2 @@
 f1,f2
-div
+div(f1,f2)
